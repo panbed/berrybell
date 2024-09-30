@@ -1,12 +1,12 @@
 import { useEffect, useState } from 'react'
-import { HashRouter, Route, Routes, useLocation } from 'react-router-dom';
+import { HashRouter, Route, Routes, useLocation } from 'react-router-dom'
 
 import './App.css'
 
-import Home from './components/Home';
-import Layout from './components/Layout';
-import Settings from './components/Settings';
-import Logs from './components/Logs';
+import Home from './components/Home'
+import Layout from './components/Layout'
+import Settings from './components/Settings'
+import Logs from './components/Logs'
 import Videos from './components/Videos'
 
 function App() {

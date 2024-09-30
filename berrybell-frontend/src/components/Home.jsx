@@ -5,7 +5,7 @@ function Home({ setTitle }) {
 
   return (
     <>
-      <Camera />
+      {/* <Camera /> */}
     </>
   )
 }
